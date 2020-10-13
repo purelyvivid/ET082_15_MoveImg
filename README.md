@@ -11,28 +11,33 @@
 |Original|<img src="./result/in.jpg" width="90" height="120" />|<img src="./result/van.jpg" width="90" height="120" />|<img src="./result/mona_bw_.jpg" width="90" height="120" />|
 | Moving |<img src="./result/in_299.gif" width="90" height="120" />|<img src="./result/van_299.gif" width="90" height="120" />|<img src="./result/mona_bw_299_light.gif" width="90" height="120" />|
 
+## Tookit
+PyTorch == 1.2
+Tensorflow == 2.0.0 (Optional)
+face-alignment
 
 ## File Structure
 
 ### / tf2
 - 2019/10/16
 - data preprocessing
-- try tensorflow 2.0 for modling
+- try tensorflow 2.0 for building model
+- not well-trained
 
 ### / torch
 - 2019/11/2
-- training for meta stage
+- pytorch for building model
+- training for **meta** stage
 
-### / finetune
+
+### / finetune (non-public)
 - 2019/11/15
-- training for fine-tune stage
+- training for **fine-tune** stage
 - generate `.gif` result (moving image)
-
-### / git
-- provide code for git pull/push to Gitlab via SSH key
+- NOTE: **In this fine-tune stage, model training is co-worked with team effort. So codes in this stage are non-public.** 
 
 ### / result
-- put some result for demo 
+- put partial results for demo 
 
 
 ## Code Structure
@@ -53,12 +58,9 @@
 - / torch / train_256.ipynb
 - Generated image_size: 256 x 256
 
-### FineTune with PyTorch
+### FineTune with PyTorch (non-public)
 - / finetune / finetune.ipynb
 - Generated `.gif` file (image_size: 256 x 256)
-
-## Front-end Deployment
-Download from: https://drive.google.com/open?id=1dwEdRyOJDopomCFiHBpFWa3mVIaA00Nz
 
 
 ## Reference
