@@ -12,9 +12,9 @@
 | Moving |<img src="./result/in_299.gif" width="90" height="120" />|<img src="./result/van_299.gif" width="90" height="120" />|<img src="./result/mona_bw_299_light.gif" width="90" height="120" />|
 
 ## Tookit
-PyTorch == 1.2
-Tensorflow == 2.0.0 (Optional)
-face-alignment
+- PyTorch == 1.2
+- Tensorflow == 2.0.0 (Optional)
+- face-alignment
 
 ## File Structure
 
@@ -34,7 +34,7 @@ face-alignment
 - 2019/11/15
 - training for **fine-tune** stage
 - generate `.gif` result (moving image)
-- NOTE: **In this fine-tune stage, model training is co-worked with team effort. So codes in this stage are non-public.** 
+- **NOTE: In this fine-tune stage, model training is co-worked with TEAM effort. So codes in this stage are non-public.** 
 
 ### / result
 - put partial results for demo 
