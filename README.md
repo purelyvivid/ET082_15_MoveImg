@@ -11,6 +11,11 @@
 |Original|<img src="./result/in.jpg" width="90" height="120" />|<img src="./result/van.jpg" width="90" height="120" />|<img src="./result/mona_bw_.jpg" width="90" height="120" />|
 | Moving |<img src="./result/in_299.gif" width="90" height="120" />|<img src="./result/van_299.gif" width="90" height="120" />|<img src="./result/mona_bw_299_light.gif" width="90" height="120" />|
 
+## Slide
+Slide about this project can be downloaded [here](https://drive.google.com/file/d/1FGjP9OPkHeKwyj_DjDxJGtAIlZacOn3V/view?usp=sharing)
+This slide is presented on 2020/01/17 @ AIA 南部小聚
+
+
 ## Tookit
 - PyTorch == 1.2
 - Tensorflow == 2.0.0 (Optional)
