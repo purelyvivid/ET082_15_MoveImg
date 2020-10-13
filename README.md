@@ -1,10 +1,13 @@
 # ET082_15_MoveImg
 
-|  |  |  |  |
+|  | EX1 | EX2 | EX3 |
 | -------- | -------- | -------- | -------- |
 | Original | <img src="./result/ko.jpg" width="90" height="120" />     | <img src="./result/han.jpg" width="90" height="120" />     | <img src="./result/sun.jpg" width="90" height="120" />     |
-| Moving | <img src="./result/ko_299.gif"  width="90" height="120" />     | <img src="./result/han_299.gif" width="90" height="120" />     | <img src="./result/sun_299.gif" width="90" height="120" />     |
-| 
+| Moving | <img src="./result/ko_299.gif"  width="90" height="120" />     | <img src="./result/han_299.gif" width="90" height="120" />     | <img src="./result/sun_299.gif" width="90" height="120" />     | 
+
+
+|  | EX4 | EX5 | EX6 |
+| -------- | -------- | -------- | -------- |
 |Original|<img src="./result/in.jpg" width="90" height="120" />|<img src="./result/van.jpg" width="90" height="120" />|<img src="./result/mona_bw_.jpg" width="90" height="120" />|
 | Moving |<img src="./result/in_299.gif" width="90" height="120" />|<img src="./result/van_299.gif" width="90" height="120" />|<img src="./result/mona_bw_299_light.gif" width="90" height="120" />|
 
